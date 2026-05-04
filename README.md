@@ -1,4 +1,6 @@
 If you find this repo useful, please cite our paper:
+
+
 @ARTICLE{11500525,
   author={Chen, Yu and Chen, Zhe and Ding, Yuxuan and Du, Yaping and Li, Binghao and Liu, Jiangnan and Yeung, Chakhung and Yao, Chenguo and Zhao, Zhongyong},
   journal={IEEE Transactions on Dielectrics and Electrical Insulation}, 
